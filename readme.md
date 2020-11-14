@@ -4,9 +4,10 @@
 
 ## ARCHIVOS REPOSITORIO
 
-- `megarepuestos.zip` : Es el código fuente del proyecto de megarepuestos.
+- `megarepuestos.zip` : Es el código fuente del proyecto de prestashop sin modificación.
 - `megarepuestos.slq`: Es la base de datos del proyecto de megarepuestos.
 - `diagramas`: Carpeta con los diagramas realizados para la arquitectura de megarepuestos.
+- [LINK DRIVE](https://drive.google.com/drive/folders/1zfj7UlhiteBx5erHrz54_CkqiUB_4QbI?usp=sharing) : Carpeta con la página editada de megarepuestos
 
 ## INSTALACIÓN PROYECTO NUEVO LOCAL
 
